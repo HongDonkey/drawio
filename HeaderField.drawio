@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2021-12-29T04:51:38.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jHmJFtUbrOJOb9P6RwHU" version="16.0.0" type="github">
+  <diagram id="4Ua9euBSj-lxprv6bCE1" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-1" value="GET / HTTP /1.1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-2" value="Host: abc.kr&lt;br&gt;User-Agent : Mozilla/ 5.0 (Windows NT 6.1; WOW64; rv: 13.0) Gecko/20100101 Firefox/13.0.1&lt;br&gt;Accept: text/html,application/ xhtml+xml,application/ xml;q=0.9,*/*;q=0.8&lt;br&gt;Accept-Language: ko,en-us;q=0.7,en;q=0.3&lt;br&gt;Accept-Encoding: gzip, deflate&lt;br&gt;DNT: 1&lt;br&gt;Connection: keep-alilve&lt;br&gt;Pragma: no-cache&lt;br&gt;Cache-Control: no-cache" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="140" width="540" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-3" value="각종 헤더 필드" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="490" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#33FFFF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="290" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-5" value="Request 메시지" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-6" value="Response 메시지" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="35" y="350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-7" value="HTTP/ 1.1 200 OK" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="420" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-8" value="Date: Fri, 13 Jul 2012 02:45:26 GMT&lt;br&gt;Server: Apache&lt;br&gt;Last-Modified: Fri, 31 Aug 2007 02:02:20 GMT&lt;br&gt;ETag: &quot;45bae1-16a-46d776ac&quot;&lt;br&gt;Accept-Ranges: bytes&lt;br&gt;Content-Length: 362&lt;br&gt;Connection: close&lt;br&gt;Content-Type:text/html" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-9" value="각종 헤더 필드" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="490" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-10" value="개행 문자[CR + LF]" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#33FFFF;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-12" value="&amp;lt;html xmlns=&quot;http:/www.w3.org/1999/xhtml&quot;&amp;gt;&lt;br&gt;&amp;lt;head&amp;gt;&lt;br&gt;&amp;lt;meta http-equiv=&quot;Content-Type&quot; content=text/html; charset=utf-8&quot; /&amp;gt;&lt;br&gt;&amp;lt;ttle&amp;gt;abc.kr&amp;lt;/title&amp;gt;&lt;br&gt;&amp;lt;/head&amp;gt;&lt;br&gt;&amp;lt;body&amp;gt;&lt;br&gt;&amp;lt;img src=&quot;abc.gif&quot; alt=&quot;abc.kr&quot; width=&quot;240&quot; height=&quot;84&quot; /&amp;gt;&lt;br&gt;&amp;lt;/body&amp;gt;&lt;br&gt;&amp;lt;/html&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#33FFFF;" parent="1" vertex="1">
+          <mxGeometry x="40" y="580" width="540" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3CitNmyuqDi5dMd3rbtU-13" value="메시지 바디" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="510" y="680" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
