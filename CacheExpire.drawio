@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2021-12-30T04:24:44.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oNKUcZl9xgePcBhvmp6C" version="16.1.0" type="github">
+  <diagram id="CWL2jb8ki4yPNJSmUnaq" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oxDBfI-I0IamP0c3UvaX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="oxDBfI-I0IamP0c3UvaX-5" target="oxDBfI-I0IamP0c3UvaX-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxDBfI-I0IamP0c3UvaX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="oxDBfI-I0IamP0c3UvaX-1" target="oxDBfI-I0IamP0c3UvaX-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxDBfI-I0IamP0c3UvaX-1" value="클라이언트" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O8vcaQ-OUbyJKKyJnWJz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="oxDBfI-I0IamP0c3UvaX-3" target="oxDBfI-I0IamP0c3UvaX-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8vcaQ-OUbyJKKyJnWJz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="oxDBfI-I0IamP0c3UvaX-3" target="oxDBfI-I0IamP0c3UvaX-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxDBfI-I0IamP0c3UvaX-3" value="캐시 서버" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="400" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oxDBfI-I0IamP0c3UvaX-5" value="오리진 서버" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="827" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O8vcaQ-OUbyJKKyJnWJz-1" value="GET /index.html HTTP/1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O8vcaQ-OUbyJKKyJnWJz-5" value="index.html&lt;br&gt;21년 11월" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;" parent="1" vertex="1">
+          <mxGeometry x="430" y="340" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RtKRkca14B8sU3S_Vhfq-1" value="index.html&lt;br&gt;21년 12월" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;" vertex="1" parent="1">
+          <mxGeometry x="857" y="350" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RtKRkca14B8sU3S_Vhfq-2" value="지난 달 획득한 캐시" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RtKRkca14B8sU3S_Vhfq-3" value="이번 달 갱신된 리소스" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="822" y="420" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RtKRkca14B8sU3S_Vhfq-4" value="캐시가 오래된 것 같으니 오리진 서버에 확인하러 감" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="537" y="270" width="290" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
