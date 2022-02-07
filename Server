@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T00:08:32.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.3" etag="YnRWJ0SFm3CIdZ9B5MB5" type="github"><diagram id="fO-ANpegOwvcZ076ZoGl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-07T00:56:28.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="HcqzQMANFNPNlG6t0vwI" version="16.5.3" type="github">
+  <diagram id="fO-ANpegOwvcZ076ZoGl" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UDxPAeKTEGf95QJygx91-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="240" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UDxPAeKTEGf95QJygx91-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="240" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UDxPAeKTEGf95QJygx91-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="210" width="240" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UDxPAeKTEGf95QJygx91-1" value="WSO2 Identity Server&amp;nbsp; - 5.11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UDxPAeKTEGf95QJygx91-2" value="MidPoint 4.4(tesla)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UDxPAeKTEGf95QJygx91-3" value="WSO2 API Manager - 4.0.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UDxPAeKTEGf95QJygx91-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;VM - CentOS7(HDD - 50GB / RAM - 4GB)&lt;br&gt;&lt;br&gt;Java-11-openjdk-11.0.14.0.9-1.el7_9.x86_64&lt;br&gt;&lt;br&gt;PostgreSQL 11.14&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry y="345" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UDxPAeKTEGf95QJygx91-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;VM - CentOS7(HDD - 50GB / RAM - 4GB)&lt;br&gt;&lt;br&gt;Java-11-openjdk-11.0.14.0.9-1.el7_9.x86_64&lt;br&gt;&lt;br&gt;PostgreSQL 11.14&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="280" y="347.5" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UDxPAeKTEGf95QJygx91-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;VM - CentOS7(HDD - 50GB / RAM - 4GB)&lt;br&gt;&lt;br&gt;Java-11-openjdk-11.0.14.0.9-1.el7_9.x86_64&lt;br&gt;&lt;br&gt;PostgreSQL 11.14&lt;br&gt;&lt;br&gt;Choreo-connnect-1.0.0&lt;br&gt;&lt;br&gt;Apictl-4.0.1-linux-x64&lt;br&gt;&lt;br&gt;Apache-ant-1.9.16&lt;br&gt;&lt;br&gt;docker 20.10.12&lt;br&gt;&lt;br&gt;docker-compose 1.27.4&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="560" y="275" width="240" height="255" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
